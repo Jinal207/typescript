@@ -11,4 +11,5 @@ function multiply(a: number, b: number, c?: number): number {
 //42
 console.log(multiply(2, 3));
 console.log(multiply(2, 3));
+console.log('injection');
 //6
